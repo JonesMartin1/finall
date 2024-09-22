@@ -1,0 +1,31 @@
+body{
+    background-color: dimgray;
+    color: aliceblue;
+    padding: 1% 2%;
+}
+
+button {
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 2px;
+    margin-right: 10px;
+
+}
+
+input[type=checkbox]
+{
+  transform: scale(200%);
+  padding-left: 100px;
+}
+
+.checkboxtext
+{
+  /* Checkbox text */
+  font-size: 11%;
+  display: inline;
+}
+
+span {
+  padding-left : 30px;
+}
